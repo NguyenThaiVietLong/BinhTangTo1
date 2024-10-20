@@ -38,7 +38,7 @@ function troll() {
     x.style.display = "none";
     y.style.display = "block";
     document.getElementById("alert").innerHTML = "😍";
-    document.getElementById("alert2").innerHTML = "Em mà thoát trang web này ra thì coi như là đồng ý nha 🥰";
+    // document.getElementById("alert2").innerHTML = "Em mà thoát trang web này ra thì coi như là đồng ý nha 🥰";
     document.getElementById("audio2").play();
     return false;
 }
